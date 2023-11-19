@@ -22,6 +22,13 @@ struct LoginView: View {
                 
                 //form
                 
+                
+                
+                
+                
+                
+                
+                
                 Form {
                     TextField("Email", text: $email)
                         .textFieldStyle(DefaultTextFieldStyle())
