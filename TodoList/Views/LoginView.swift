@@ -18,15 +18,9 @@ struct LoginView: View {
             VStack {
                 
                 //Header
-                HeadersView()
+                HeadersView(title: "To Do List", subTitle: "Get things done", angle: 15, backgroundColor: .pink)
                 
                 //form
-                
-                
-                
-                
-                
-                
                 
                 
                 Form {
